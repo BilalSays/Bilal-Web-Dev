@@ -1,9 +1,0 @@
-this is new file.
-
-git clone <url>
-cd <repo name>
-code .
-create a file with some text in vs code
-git add .
-git commit -m "your commit msg"
-git push
